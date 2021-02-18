@@ -4,7 +4,7 @@
 - State Manager - GetX
 - Uses <a href="https://github.com/julianoventola/dw3_pizza_delivery_api">Pizza Delivery backend</a>
   <br>
-  <img src="https://github.com/julianoventola/dw3_pizza_delivery_api/blob/master/PizzaDelivery.gif">
+  <img src="https://github.com/julianoventola/dw3_pizza_delivery_app/blob/master/PizzaDelivery.gif">
 
 # Features
 
